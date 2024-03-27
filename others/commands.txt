@@ -1,0 +1,2 @@
+docker compose up -d
+docker exec -it cassandra cqlsh -u cassandra -p cassandra localhost 9042
