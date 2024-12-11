@@ -12,7 +12,7 @@ calls_made_m = 0
 calls_made_d = 0
 start_time = time.time()
 
-API_URL = f"https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=b227b30a1da87b503d72c82bd500b358&units=metric"
+API_URL = f"https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=&units=metric"
 MAX_CALLS_PER_MINUTE = 50
 MAX_CALLS_PER_DAY = 800
 
