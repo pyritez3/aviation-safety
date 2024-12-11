@@ -6,7 +6,7 @@ import pandas as pd
 url = "https://timetable-lookup.p.rapidapi.com/TimeTable/MAA/IXM/20240327/"
 
 headers = {
-    "X-RapidAPI-Key": "4aa2fd4190msh076103ca5d025e8p1f137bjsn1078528d947d",
+    "X-RapidAPI-Key": "API KEY",
     "X-RapidAPI-Host": "timetable-lookup.p.rapidapi.com"
 }
 
