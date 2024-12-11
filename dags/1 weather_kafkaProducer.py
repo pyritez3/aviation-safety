@@ -9,7 +9,7 @@ import requests
 
 def get_data():
   
-    API_URL = "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=b227b30a1da87b503d72c82bd500b358&units=metric"
+    API_URL = "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=8&units=metric"
     data = requests.get(API_URL)
     data = data.json() 
     return data
